@@ -43,6 +43,8 @@ public final class BinaryOut {
     private int n;                     // number of bits remaining in buffer
 
 
+
+
    /**
      * Initializes a binary output stream from standard output.
      */
