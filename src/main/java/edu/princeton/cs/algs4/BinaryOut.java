@@ -74,6 +74,8 @@ public final class BinaryOut {
         }
     }
 
+
+
    /**
      * Initializes a binary output stream from a socket.
      * @param socket the socket
